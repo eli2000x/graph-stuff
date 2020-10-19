@@ -1,0 +1,5 @@
+
+
+How to run: Run make to create FindComponents, run "FindComponents <input file> <output file>" 
+to find the connected components of the input directed graph.
+
