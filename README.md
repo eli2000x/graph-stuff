@@ -1,1 +1,1 @@
-Collection of algorithms in graph theory
+Collection of graph theory algorithms
