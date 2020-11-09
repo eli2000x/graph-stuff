@@ -6,7 +6,7 @@
 
 int main(int argc, char* argv[]) {
 
-	/*
+	
 	int order = 8;
 	Graph G = newGraph(order);
 	List S = newList();
@@ -76,6 +76,6 @@ int main(int argc, char* argv[]) {
 	freeGraph(&G);
 	freeGraph(&H);
 	freeGraph(&S);
-	*/
+	
 
 }

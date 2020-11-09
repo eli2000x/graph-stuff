@@ -81,7 +81,9 @@ int main(int argc, char* argv[]) {
 
 	// add connected components to stack to print in order
 	List P = newList();
+
 	moveFront(S);
+	
 	moveFront(P);
 	while(index(S) >= 0) {
 		int x = get(S);
